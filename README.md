@@ -9,7 +9,7 @@
 
 # Steps to run the script
 
-`terraform init`
-'terraform plan` for sanity test 
-`terraform apply' for configuration
-'terraform destroy` to destroy the created instance etc
+- `terraform init`
+- `terraform plan` for sanity test 
+- `terraform apply` for configuration
+- `terraform destroy` to destroy the created instance etc
